@@ -1,6 +1,5 @@
 .cache
 .vscode
-dist
 coverage
 node_modules
 sample/dist
